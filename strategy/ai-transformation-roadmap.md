@@ -200,4 +200,6 @@ Use this to prioritize your Horizon 1 initiatives:
 
 ---
 
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — use freely with attribution.
+
 *Last updated: March 2026*
