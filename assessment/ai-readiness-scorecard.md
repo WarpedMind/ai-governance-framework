@@ -2,6 +2,8 @@
 
 **A structured diagnostic for evaluating organizational readiness to adopt AI at scale.**
 
+**Version 1.0**
+
 Maintained by **[Thomas C. Grow II](https://github.com/WarpedMind)**  
 Fractional Chief AI Officer · AI Strategy & Governance · Digital Transformation  
 Certified Chief AI Officer (CAIO), [World AI University](https://waiu.org)  
@@ -65,6 +67,92 @@ Score your organization on each dimension below using the scale provided. Be hon
 | We can identify at least 3 manual processes that are strong candidates for automation | |
 | We have experience shipping software or technology products internally | |
 
+**Dimension score: ___ / 25**
+
+*AI works best when applied to processes you understand well. If a process is chaotic or undocumented, automating it will produce chaotic automated output.*
+
+---
+
+## Dimension 4: Governance & Risk Awareness
+
+| Question | Score (1–5) |
+|---|---|
+| We understand what regulations apply to our use of customer data | |
+| We have considered how AI decisions could affect customers or employees unfairly | |
+| We have someone accountable for technology risk in the organization | |
+| We have a process for evaluating third-party software vendors before adoption | |
+| Leadership is aware of and engaged with AI-related regulatory developments | |
+
+**Dimension score: ___ / 25**
+
+*Governance doesn't need to be complex at early stages — but it does need to exist. Starting with even a basic framework is far easier than retrofitting governance after an incident.*
+
+---
+
+## Dimension 5: Strategic Clarity
+
+| Question | Score (1–5) |
+|---|---|
+| We have a clear hypothesis about how AI will create value for our business | |
+| We have defined what success looks like for AI adoption (specific metrics) | |
+| Leadership is aligned on AI as a strategic priority (not just an experiment) | |
+| We have identified a sponsor with authority to drive AI initiatives forward | |
+| We understand our competitive landscape well enough to know where AI creates advantage | |
+
+**Dimension score: ___ / 25**
+
+*AI projects without strategic clarity tend to drift into expensive pilots that never scale. A sharp answer to "what problem are we solving and how will we know we solved it" is essential.*
+
+---
+
+## Scoring Summary
+
+| Dimension | Score |
+|---|---|
+| Data Infrastructure | / 25 |
+| Talent & Culture | / 25 |
+| Process Maturity | / 25 |
+| Governance & Risk | / 25 |
+| Strategic Clarity | / 25 |
+| **Total** | **/ 125** |
+
+---
+
+## Interpreting Your Score
+
+| Total Score | Readiness Level | Recommended Next Step |
+|---|---|---|
+| 100–125 | **AI-Ready** | Begin implementation planning; focus on quick wins with clear ROI |
+| 75–99 | **Approaching Ready** | Address 2–3 specific gaps before scaling; pilot in one area |
+| 50–74 | **Foundation Building** | Prioritize data, governance, and cultural groundwork before AI investment |
+| 25–49 | **Early Stage** | Significant foundation work needed; consider strategic advisory engagement |
+| Under 25 | **Not Yet Ready** | Focus on operational fundamentals first; AI will not solve underlying issues |
+
+---
+
+## After the Assessment
+
+The score matters less than the conversation it generates. Use low-scoring dimensions as the starting point for a leadership discussion:
+
+- Which gaps are we willing to accept as acceptable risk?
+- Which gaps are we committed to closing before proceeding?
+- Who owns each gap?
+- What does a 90-day improvement plan look like?
+
+A realistic assessment followed by honest prioritization is the foundation of a transformation that actually succeeds.
+
+## Related Documents
+
+- [AI Governance Framework README](../README.md)
+- [AI Governance Policy Template](../governance/ai-governance-policy-template.md)
+- [AI Transformation Roadmap](../strategy/ai-transformation-roadmap.md)
+- [Risk Tiering Model](../governance/risk-tiering-model.md)
+- [Vendor AI Assessment Checklist](../governance/vendor-ai-checklist.md)
+
+---
+
+*Feedback and contributions welcome via Issues or Pull Requests*  
+*Last updated: March 2026*
 **Dimension score: ___ / 25**
 
 *AI works best when applied to processes you understand well. If a process is chaotic or undocumented, automating it will produce chaotic automated output.*
