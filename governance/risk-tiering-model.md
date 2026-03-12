@@ -190,5 +190,4 @@ The emerging international standard for AI management systems. Risk classificati
 
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — use freely with attribution.
 
-*Feedback and contributions welcome via Issues or Pull Requests*
 *Last updated: March 2026*
