@@ -171,4 +171,6 @@ Exceptions to this policy require written approval from the AI Governance Lead a
 
 *This template is provided as a starting point for organizations building AI governance programs. It does not constitute legal advice. Consult qualified legal and compliance professionals before finalizing your organization's AI policy.*
 
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — use freely with attribution.
+
 *Last updated: March 2026*
